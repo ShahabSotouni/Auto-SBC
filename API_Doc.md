@@ -14,12 +14,12 @@ Returns a list of available SBC sets.
 ```json
 [
   {
-    \"id\": 1,
-    \"name\": \"SBC Set 1\"
+    "id": 1,
+    "name": "SBC Set 1"
   },
   {
-    \"id\": 2,
-    \"name\": \"SBC Set 2\"
+    "id": 2,
+    "name": "SBC Set 2"
   }
 ]
 ```
@@ -36,12 +36,12 @@ Returns a list of challenges for a specific SBC set.
 ```json
 [
   {
-   \"id\": 1,
-    \"name\": \"Challenge 1\"
+   "id": 1,
+    "name": "Challenge 1"
   },
   {
-   \"id\": 2,
-    \"name\": \"Challenge 2\"
+   "id": 2,
+    "name": "Challenge 2"
   }
 ]
 ```
@@ -58,15 +58,15 @@ Solves an SBC challenge.
 * Example Response:
 ```json
 {
-  \"status\": \"success\",
-  \"solution\": [
+  "status": "success",
+  "solution": [
     {
-      \"id\": 1,
-      \"name\": \"Player 1\"
+      "id": 1,
+      "name": "Player 1"
     },
     {
-      \"id\": 2,
-      \"name\": \"Player 2\"
+      "id": 2,
+      "name": "Player 2"
     }
   ]
 }
@@ -82,14 +82,14 @@ Returns a list of player prices.
 ```json
 [
   {
-    \"id\": 1,
-    \"name\": \"Player 1\",
-    \"price\": 1000
+    "id": 1,
+    "name": "Player 1",
+    "price": 1000
   },
   {
-    \"id\": 2,
-    \"name\": \"Player 2\",
-    \"price\": 500
+    "id": 2,
+    "name": "Player 2",
+    "price": 500
   }
 ]
 ```
@@ -165,12 +165,12 @@ Returns a list of available SBC sets.
 ```json
 [
   {
-    \"id\": 1,
-    \"name\": \"SBC Set 1\"
+    "id": 1,
+    "name": "SBC Set 1"
   },
   {
-    \"id\": 2,
-    \"name\": \"SBC Set 2\"
+    "id": 2,
+    "name": "SBC Set 2"
   }
 ]
 ```
@@ -184,12 +184,12 @@ Returns a list of challenges for a specific SBC set.
 ```json
 [
   {
-   \"id\": 1,
-    \"name\": \"Challenge 1\"
+   "id": 1,
+    "name": "Challenge 1"
   },
   {
-   \"id\": 2,
-    \"name\": \"Challenge 2\"
+   "id": 2,
+    "name": "Challenge 2"
   }
 ]
 ```
@@ -203,15 +203,15 @@ Solves an SBC challenge.
 * Example Response:
 ```json
 {
-  \"status\": \"success\",
-  \"solution\": [
+  "status": "success",
+  "solution": [
     {
-      \"id\": 1,
-      \"name\": \"Player 1\"
+      "id": 1,
+      "name": "Player 1"
     },
     {
-      \"id\": 2,
-      \"name\": \"Player 2\"
+      "id": 2,
+      "name": "Player 2"
     }
   ]
 }
@@ -224,14 +224,14 @@ Returns a list of player prices.
 ```json
 [
   {
-    \"id\": 1,
-    \"name\": \"Player 1\",
-    \"price\": 1000
+    "id": 1,
+    "name": "Player 1",
+    "price": 1000
   },
   {
-    \"id\": 2,
-    \"name\": \"Player 2\",
-    \"price\": 500
+    "id": 2,
+    "name": "Player 2",
+    "price": 500
   }
 ]
 ```
