@@ -1,0 +1,12 @@
+,id,name,cardType,assetId,definitionId,Is_Pos,rating,teamId,leagueId,nationId,rarityId,ratingTier,isUntradeable,isDuplicate,isStorage,preferredPosition,possiblePositions,groups,isFixed,concept,price,futggPrice,maxChem,normalizeClubId,teamChem.calculationType,teamChem.contribution,teamChem.parameterId,leagueChem.calculationType,leagueChem.contribution,leagueChem.parameterId,nationChem.calculationType,nationChem.contribution,nationChem.parameterId,int_rating,avg_rating,Chemistry,Org_Row_ID
+5,539944225380,Bacha,Gold Rare,265674,265674,0,86,116033,2218,18,1,3,True,False,False,7,0,99,False,False,4708.8,5900,False,66,1,1,1,1,1,2,1,1,3,860000,78181,0,7
+29,529872755645,Daghim,Team of the Week,268504,50600152,0,85,191,80,13,3,3,True,False,False,25,0,99,False,False,9788.0,12250,False,191,1,1,1,1,1,2,1,1,3,850000,77272,0,31
+30,530007081314,Bruno Guimarães,Gold Rare,247851,247851,0,85,13,13,54,1,3,True,False,False,10,0,99,False,False,1988.0,2500,False,13,1,1,1,1,1,2,1,1,3,850000,77272,0,32
+32,530865793618,Lawrence,Gold Rare,227392,227392,0,85,116010,2216,70,1,3,True,False,False,3,0,99,False,False,1988.0,2500,False,5,1,1,1,1,1,2,1,1,3,850000,77272,0,34
+38,539340727864,Ona Batlle,Gold Rare,253436,253436,0,85,116325,2222,45,1,3,True,False,False,7,0,99,False,False,2388.0,3000,False,241,1,1,1,1,1,2,1,1,3,850000,77272,0,40
+39,540160964143,Sané,Gold Rare,222492,222492,0,85,21,19,21,1,3,True,False,False,12,0,99,False,False,2068.0,2600,False,21,1,1,1,1,1,2,1,1,3,850000,77272,0,41
+40,540573592134,Frohms,Gold Rare,247789,247789,0,85,115998,2215,21,1,3,True,False,False,0,0,99,False,False,2068.0,2600,False,175,1,1,1,1,1,2,1,1,3,850000,77272,0,42
+344,539064460886,Casemiro,Gold Rare,200145,200145,0,84,11,13,54,1,3,True,False,True,10,0,99,False,False,483.07200000000006,1200,False,11,1,1,1,1,1,2,1,1,3,840000,76363,0,346
+345,539340727863,Vlahović,Gold Rare,246430,246430,0,84,45,31,51,1,3,True,False,True,25,0,99,False,False,483.07200000000006,1200,False,45,1,1,1,1,1,2,1,1,3,840000,76363,0,347
+348,540160619285,Buchanan,Gold Rare,227383,227383,0,84,116010,2216,70,1,3,True,False,True,5,0,99,False,False,483.07200000000006,1200,False,5,1,1,1,1,1,2,1,1,3,840000,76363,0,350
+370,540747539846,Gerard Moreno,Gold Rare,208093,208093,0,83,483,53,45,1,3,True,False,True,25,0,99,False,False,360.264,900,False,483,1,1,1,1,1,2,1,1,3,830000,75454,0,372
